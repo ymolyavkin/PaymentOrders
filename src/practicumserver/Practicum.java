@@ -52,11 +52,11 @@ public class Practicum {
 
 
         System.out.println("HTTP-сервер запущен на " + PORT + " порту!");
-        String[] week = {"MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"};
+        /*String[] week = {"MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"};
         Random random = new Random();
         int index = random.nextInt(7);
         System.out.println(index);
         String response = week[index];
-        System.out.println(response);
+        System.out.println(response);*/
     }
 }
